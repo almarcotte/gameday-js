@@ -1,7 +1,7 @@
 {
   "name": "slackbb",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/app.js",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.24.1",
@@ -12,7 +12,6 @@
   "dependencies": {
     "axios": "^0.16.1",
     "bluebird": "^3.5.0",
-    "gameday-helper": "^0.1.1",
     "http": "^0.0.0",
     "slack": "^8.3.1",
     "url": "^0.11.0"
